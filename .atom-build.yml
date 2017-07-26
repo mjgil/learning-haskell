@@ -1,0 +1,4 @@
+{
+  "cmd": "ghci {FILE_ACTIVE}",
+  "shell": true
+}
